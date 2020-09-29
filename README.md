@@ -1,1 +1,1 @@
-# gameLaberitoJS
+# Un simple Laberito con JS
